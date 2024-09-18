@@ -1,0 +1,20 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=740&t=st=1726573373~exp=1726573973~hmac=14f878854296091a1997e663ac5912a6c29146ee1dbe286f948d2e320c6e8620");
+
+    height: 100vh;
+  }
+  
+  .custom-form {
+    width: 600px; /* Set a fixed width */
+    padding: 20px;
+    border: 1px solid black; 
+    border-radius: 10px; /* Optional: add some border radius */
+  background-color: white;
+  }
+  .edit{
+    background-image: url("https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=740&t=st=1726573373~exp=1726573973~hmac=14f878854296091a1997e663ac5912a6c29146ee1dbe286f948d2e320c6e8620");
+height: 100%;
+  }

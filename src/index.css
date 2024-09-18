@@ -1,13 +1,4 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+body{
+    background-image: url("https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=740&t=st=1726573373~exp=1726573973~hmac=14f878854296091a1997e663ac5912a6c29146ee1dbe286f948d2e320c6e8620");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }

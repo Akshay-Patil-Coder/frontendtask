@@ -1,0 +1,26 @@
+/* Home.css */
+
+.newhome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 56px); /* Adjust for Navbar height if it's 56px */
+    text-align: center;
+    margin-top: 20px; /* Optional: add margin to push content down if needed */
+  }
+  
+  .newhome-container img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px; /* Adds space below the image */
+  }
+  
+  .newhome-container h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333; /* Dark text color */
+    margin: 10px 0;
+  }
+  
